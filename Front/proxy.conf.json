@@ -1,0 +1,23 @@
+{
+  
+    "/GetCustomer/*": {
+        "target": "https://localhost:7073/api/v1/Customer",
+        "secure": false,
+        "loglevel": "debug"
+    },
+    "/CreateCustomer/*": {
+        "target": "https://localhost:7073/api/v1/Customer",
+        "secure": false,
+        "loglevel": "debug"
+    },
+    "/UpdateCustomer/*": {
+        "target": "https://localhost:7073/api/v1/Customer",
+        "secure": false,
+        "loglevel": "debug"
+    },
+    "/DelCustomer/*": {
+        "target": "https://localhost:7073/api/v1/Customer",
+        "secure": false,
+        "loglevel": "debug"
+    }
+}
